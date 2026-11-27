@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A55407DF-150D-4FE8-8F6F-536E50EE1303}|StudentRazorPages\\StudentRazorPages.csproj|c:\\users\\user\\desktop\\projects\\galich-glitch\\c-control\\studentrazorpages\\pages\\groups\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A55407DF-150D-4FE8-8F6F-536E50EE1303}|StudentRazorPages\\StudentRazorPages.csproj|solutionrelative:studentrazorpages\\pages\\groups\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A55407DF-150D-4FE8-8F6F-536E50EE1303}|StudentRazorPages\\StudentRazorPages.csproj|c:\\users\\user\\desktop\\projects\\galich-glitch\\c-control\\studentrazorpages\\pages\\groups\\_grouprow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A55407DF-150D-4FE8-8F6F-536E50EE1303}|StudentRazorPages\\StudentRazorPages.csproj|solutionrelative:studentrazorpages\\pages\\groups\\_grouprow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,12 +31,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentRazorPages\\Pages\\Groups\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\Details.cshtml",
+              "RelativeToolTip": "StudentRazorPages\\Pages\\Groups\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-27T18:02:25.406Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_GroupRow.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\_GroupRow.cshtml",
               "RelativeDocumentMoniker": "StudentRazorPages\\Pages\\Groups\\_GroupRow.cshtml",
               "ToolTip": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\_GroupRow.cshtml",
               "RelativeToolTip": "StudentRazorPages\\Pages\\Groups\\_GroupRow.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABpAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-27T17:17:27.98Z",
               "EditorCaption": "",
@@ -40,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Update.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\Update.cshtml.cs",
               "RelativeDocumentMoniker": "StudentRazorPages\\Pages\\Groups\\Update.cshtml.cs",
@@ -49,12 +67,11 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-27T17:15:38.821Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\Update.cshtml",
               "RelativeDocumentMoniker": "StudentRazorPages\\Pages\\Groups\\Update.cshtml",
@@ -63,7 +80,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-27T17:15:29.551Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             }
           ]
