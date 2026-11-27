@@ -1,0 +1,19 @@
+@page
+@model StudentRazorPages.Pages.Groups.CreateModel
+
+<div class="container py-4" style="max-width: 600px;">
+    <h1 class="h2 mb-4">Создание группы</h1>
+
+    <form method="post" class="card shadow-sm border-0 p-4">
+        <div class="mb-3">
+            <label asp-for="Input.Name" class="form-label">Название группы</label>
+            <input asp-for="Input.Name" class="form-control" placeholder="Например: ИС-21" />
+            <span asp-validation-for="Input.Name" class="text-danger small"></span>
+        </div>
+
+        <div class="d-flex gap-2 mt-4">
+            <button type="submit" class="btn btn-success px-4">Сохранить</button>
+            <a asp-page="./Index" class="btn btn-outline-secondary">Отмена</a>
+        </div>
+    </form>
+</div>

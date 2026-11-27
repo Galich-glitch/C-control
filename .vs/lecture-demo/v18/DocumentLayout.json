@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A55407DF-150D-4FE8-8F6F-536E50EE1303}|StudentRazorPages\\StudentRazorPages.csproj|c:\\users\\user\\desktop\\projects\\galich-glitch\\c-control\\studentrazorpages\\pages\\groups\\_grouprow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A55407DF-150D-4FE8-8F6F-536E50EE1303}|StudentRazorPages\\StudentRazorPages.csproj|solutionrelative:studentrazorpages\\pages\\groups\\_grouprow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55407DF-150D-4FE8-8F6F-536E50EE1303}|StudentRazorPages\\StudentRazorPages.csproj|c:\\users\\user\\desktop\\projects\\galich-glitch\\c-control\\studentrazorpages\\pages\\groups\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55407DF-150D-4FE8-8F6F-536E50EE1303}|StudentRazorPages\\StudentRazorPages.csproj|solutionrelative:studentrazorpages\\pages\\groups\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55407DF-150D-4FE8-8F6F-536E50EE1303}|StudentRazorPages\\StudentRazorPages.csproj|c:\\users\\user\\desktop\\projects\\galich-glitch\\c-control\\studentrazorpages\\pages\\groups\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A55407DF-150D-4FE8-8F6F-536E50EE1303}|StudentRazorPages\\StudentRazorPages.csproj|solutionrelative:studentrazorpages\\pages\\groups\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_GroupRow.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\_GroupRow.cshtml",
+              "RelativeDocumentMoniker": "StudentRazorPages\\Pages\\Groups\\_GroupRow.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\_GroupRow.cshtml",
+              "RelativeToolTip": "StudentRazorPages\\Pages\\Groups\\_GroupRow.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-27T17:17:27.98Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\Update.cshtml.cs",
+              "RelativeDocumentMoniker": "StudentRazorPages\\Pages\\Groups\\Update.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\Update.cshtml.cs",
+              "RelativeToolTip": "StudentRazorPages\\Pages\\Groups\\Update.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T17:15:38.821Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\Update.cshtml",
+              "RelativeDocumentMoniker": "StudentRazorPages\\Pages\\Groups\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Projects\\Galich-glitch\\C-control\\StudentRazorPages\\Pages\\Groups\\Update.cshtml",
+              "RelativeToolTip": "StudentRazorPages\\Pages\\Groups\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-27T17:15:29.551Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

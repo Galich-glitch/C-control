@@ -1,0 +1,18 @@
+@model StudentApi.Data.DTOs.Group.GroupGetDto
+
+<tr>
+    <td class="text-body-secondary">@Model.Id</td>
+    <td>@Model.Name</td>
+    <td class="text-end text-nowrap">
+        <a asp-page="Update" asp-route-id="@Model.Id" class="btn btn-sm btn-outline-primary">Изменить</a>
+        <a asp-page="Details" asp-route-id="@Model.Id" class="btn btn-sm btn-outline-secondary">Подробнее</a>
+
+        <form method="post"
+              asp-page-handler="Delete"
+              asp-route-id="@Model.Id"
+              onsubmit="return confirm('Удалить группу &quot;@Model.Name&quot;?');"
+              class="d-inline">
+            <button type="submit" class="btn btn-sm btn-outline-danger">Удалить</button>
+        </form>
+    </td>
+</tr>

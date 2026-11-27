@@ -1,0 +1,41 @@
+@page "{id:int}"
+@model StudentRazorPages.Pages.Groups.DetailsModel
+
+<div class="container py-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <div>
+            <h1 class="h3 mb-0 text-dark">Просмотр группы</h1>
+            <p class="text-muted small mb-0 mt-1">Информация о студенческой группе</p>
+        </div>
+        <a asp-page="Index" class="btn btn-outline-secondary shadow-sm">
+            <i class="bi bi-arrow-left me-1"></i> Назад к списку
+        </a>
+    </div>
+
+    <div class="card shadow-sm border-0 mb-4" style="max-width: 600px;">
+        <div class="card-header bg-white border-bottom-0 pt-4 pb-0">
+            <h5 class="card-title text-primary mb-0">
+                <i class="bi bi-collection me-2"></i>@Model.Group.Name
+            </h5>
+        </div>
+        <div class="card-body">
+            <dl class="row mb-0">
+                <dt class="col-sm-4 text-muted fw-normal">Идентификатор (ID)</dt>
+                <dd class="col-sm-8 fw-medium">
+                    <span class="badge bg-light text-dark border px-2 py-1">#@Model.Group.Id</span>
+                </dd>
+
+                <dt class="col-sm-4 text-muted fw-normal">Название группы</dt>
+                <dd class="col-sm-8 fw-bold text-dark">@Model.Group.Name</dd>
+            </dl>
+        </div>
+        <div class="card-footer bg-light border-top-0 d-flex gap-2 py-3">
+            <a asp-page="Edit" asp-route-id="@Model.Group.Id" class="btn btn-primary shadow-sm">
+                <i class="bi bi-pencil-square me-1"></i> Редактировать
+            </a>
+            <a asp-page="Index" class="btn btn-outline-secondary">
+                <i class="bi bi-list-ul me-1"></i> К списку
+            </a>
+        </div>
+    </div>
+</div>

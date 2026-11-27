@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\bin\Debug\net10.0\StudentApi.Data.deps.json
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\bin\Debug\net10.0\StudentApi.Data.runtimeconfig.json
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\bin\Debug\net10.0\StudentApi.Data.runtimeconfig.dev.json
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\bin\Debug\net10.0\StudentApi.Data.dll
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\bin\Debug\net10.0\StudentApi.Data.pdb
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\StudentApi.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\StudentApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\StudentApi.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\StudentApi.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\StudentApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\StudentApi.Data.sourcelink.json
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\StudentApi.Data.dll
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\refint\StudentApi.Data.dll
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\StudentApi.Data.pdb
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\StudentApi.Data.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\ref\StudentApi.Data.dll
+C:\Users\User\Desktop\Projects\Galich-glitch\C-control\StudentApi.Data\obj\Debug\net10.0\StudentA.B8F5489F.Up2Date
